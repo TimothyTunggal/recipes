@@ -1,0 +1,16 @@
+.lasagne{
+    color: white;
+    background-color: darkolivegreen;
+    font-size: 70px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.lasagnebody{
+    color: white;
+    background-color: darkolivegreen;
+    font-size: 20px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.lasagnebild{
+    width: 1000px;
+    height: auto;
+}
